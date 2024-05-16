@@ -1,6 +1,7 @@
 TWNet for spotting the macro- and micro- intervals in the long video sequence
 
 | File | Description | 
+| --- | --- |
 | requirements.txt | Install the requirements that the code needs. |
 | static_pretraining.py | Static module pre-training model, using revised Fer2013dataset. |
 | dynamic_pretraining.py | Dynamic module pre-training model, using processed CK+ dataset. |
